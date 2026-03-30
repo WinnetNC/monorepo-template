@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo/shared",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+      "build": "tsc"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "~5.9.3"
+  }
+}
